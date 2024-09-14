@@ -29,4 +29,3 @@ By version 1.0, features include:
 # Technology Stack
 
 Dart, Flutter, Firebase Auth, Firestore, Firebase Storage, Firebase Cloud Messaging (Push Notification), Getx, MVVM, GitHub, CI/CD (GitHub Actions), Mockito, Unit Test
-
