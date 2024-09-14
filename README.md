@@ -10,7 +10,7 @@ By version 1.0, features include:
 - Search users
 - Peer chat
 - Online/Offline status
-- Report user 
+- Report user
 - Block and unblock user
 - Push notification
 - Profile setting
@@ -27,4 +27,5 @@ By version 1.0, features include:
 - flutter run
 
 # Technology Stack
+
 Dart, Flutter, Firebase Auth, Firestore, Firebase Storage, Firebase Cloud Messaging (Push Notification), Getx, MVVM, GitHub, CI/CD (GitHub Actions), Mockito, Unit Test
