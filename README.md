@@ -2,8 +2,7 @@
 
 This app simplifies communication and connects you with friends, family, and new people anywhere, anytime.
 
-By version 1.0, features include:
-
+By version 1.5, features include:
 - Register
 - Login
 - Reset password
